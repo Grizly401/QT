@@ -1,0 +1,16 @@
+# ninja log v6
+39	862	7796521344417831	Function_autogen/timestamp	e408af4812b1653
+39	862	7796521344417831	Function_autogen/mocs_compilation.cpp	e408af4812b1653
+4891	5322	7796521385913532	Function.exe	8fa11cc7937b8a25
+39	862	7796521344417831	C:/Users/qwert/Documents/Function/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Function_autogen/timestamp	e408af4812b1653
+863	4282	7796521345648585	CMakeFiles/Function.dir/Function_autogen/mocs_compilation.cpp.obj	b87aea2551ffad8e
+876	4260	7796521345788204	CMakeFiles/Function.dir/plotbuilderworker.cpp.obj	7eb17fe27cac0e27
+2198	6798	7795726763332739	CMakeFiles/Function.dir/main.cpp.obj	962beacc477e9cde
+867	4891	7796521345688477	CMakeFiles/Function.dir/mainwindow.cpp.obj	376d2e41b3f3e0bb
+39	862	7796521344417831	C:/Users/qwert/Documents/Function/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Function_autogen/mocs_compilation.cpp	e408af4812b1653
+1247	5111	7796498190030494	CMakeFiles/Function.dir/formul.cpp.obj	34e8397a00c52103
+2226	5844	7795726763623701	CMakeFiles/Function.dir/trigonometric.cpp.obj	f24ca2ec84cd4bb6
+2211	5846	7795726763474100	CMakeFiles/Function.dir/inverse.cpp.obj	fe9324198de081b6
+2221	5865	7795726763563871	CMakeFiles/Function.dir/quadratic.cpp.obj	6b47c7b6c6603655
+2216	5950	7795726763514008	CMakeFiles/Function.dir/logarithmic.cpp.obj	667dca5a7302a329
+871	3847	7796521345738347	CMakeFiles/Function.dir/plotbuilder.cpp.obj	bb6c646d5c83009d
