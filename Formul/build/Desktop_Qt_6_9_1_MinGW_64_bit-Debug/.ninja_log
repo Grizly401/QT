@@ -1,0 +1,16 @@
+# ninja log v6
+11	1105	7784497697856313	Formul_autogen/timestamp	3ec19eac2d4e7f6d
+11	1105	7784497697856313	Formul_autogen/mocs_compilation.cpp	3ec19eac2d4e7f6d
+11	1105	7784497697856313	D:/C++Project/QT creator/Formul/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Formul_autogen/timestamp	3ec19eac2d4e7f6d
+1106	5367	7784497698735253	CMakeFiles/Formul.dir/Formul_autogen/mocs_compilation.cpp.obj	9347b976c986d03d
+1076	4931	7784490571119804	CMakeFiles/Formul.dir/taskmodel.cpp.obj	b399639a702db424
+1109	5365	7784497698766229	CMakeFiles/Formul.dir/main.cpp.obj	7c6971c15b348a6
+11	1105	7784497697856313	D:/C++Project/QT creator/Formul/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Formul_autogen/mocs_compilation.cpp	3ec19eac2d4e7f6d
+1113	5744	7784497698805620	CMakeFiles/Formul.dir/mainwindow.cpp.obj	f02efac95f96b09d
+5744	6295	7784497745120895	Formul.exe	c8b5bc837c37fdad
+9	142	7784500243442189	Formul_autogen/timestamp	3ec19eac2d4e7f6d
+9	142	7784500243442189	Formul_autogen/mocs_compilation.cpp	3ec19eac2d4e7f6d
+9	142	7784500243442189	D:/C++Project/QT creator/Formul/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Formul_autogen/timestamp	3ec19eac2d4e7f6d
+9	142	7784500243442189	D:/C++Project/QT creator/Formul/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Formul_autogen/mocs_compilation.cpp	3ec19eac2d4e7f6d
+143	3970	7784500244769162	CMakeFiles/Formul.dir/mainwindow.cpp.obj	f02efac95f96b09d
+3970	4490	7784500283042476	Formul.exe	c8b5bc837c37fdad

@@ -1,0 +1,33 @@
+# ninja log v6
+817	4143	7781944926468019	CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.obj	f07860a7d958cfbb
+23	171	7782500226060689	calculator_autogen/timestamp	b09a7fd91ef84349
+23	171	7782500226060689	calculator_autogen/mocs_compilation.cpp	b09a7fd91ef84349
+23	171	7782500226060689	D:/C++Project/QT creator/calculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	b09a7fd91ef84349
+23	171	7782500226060689	D:/C++Project/QT creator/calculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/calculator_autogen/timestamp	b09a7fd91ef84349
+172	2469	7782500227548500	CMakeFiles/calculator.dir/mainwindow.cpp.obj	34b3b871c3924d7e
+819	4199	7781944926487965	CMakeFiles/calculator.dir/main.cpp.obj	7a14c1ae45e1e714
+2469	2768	7782500250504565	calculator.exe	d9119748aa319534
+24	206	7782500740815251	calculator_autogen/timestamp	b09a7fd91ef84349
+24	206	7782500740815251	calculator_autogen/mocs_compilation.cpp	b09a7fd91ef84349
+24	206	7782500740815251	D:/C++Project/QT creator/calculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/calculator_autogen/timestamp	b09a7fd91ef84349
+24	206	7782500740815251	D:/C++Project/QT creator/calculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	b09a7fd91ef84349
+206	2441	7782500742263537	CMakeFiles/calculator.dir/mainwindow.cpp.obj	34b3b871c3924d7e
+2442	2631	7782500764609947	calculator.exe	d9119748aa319534
+23	156	7782501537168562	calculator_autogen/timestamp	b09a7fd91ef84349
+23	156	7782501537168562	calculator_autogen/mocs_compilation.cpp	b09a7fd91ef84349
+23	156	7782501537168562	D:/C++Project/QT creator/calculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/calculator_autogen/timestamp	b09a7fd91ef84349
+23	156	7782501537168562	D:/C++Project/QT creator/calculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	b09a7fd91ef84349
+156	2415	7782501538501029	CMakeFiles/calculator.dir/mainwindow.cpp.obj	34b3b871c3924d7e
+2415	2600	7782501561000438	calculator.exe	d9119748aa319534
+25	175	7782501869856353	calculator_autogen/timestamp	b09a7fd91ef84349
+25	175	7782501869856353	calculator_autogen/mocs_compilation.cpp	b09a7fd91ef84349
+25	175	7782501869856353	D:/C++Project/QT creator/calculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/calculator_autogen/timestamp	b09a7fd91ef84349
+25	175	7782501869856353	D:/C++Project/QT creator/calculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	b09a7fd91ef84349
+176	2437	7782501871366586	CMakeFiles/calculator.dir/mainwindow.cpp.obj	34b3b871c3924d7e
+2437	2623	7782501893891516	calculator.exe	d9119748aa319534
+24	202	7782502148266865	calculator_autogen/timestamp	b09a7fd91ef84349
+24	202	7782502148266865	calculator_autogen/mocs_compilation.cpp	b09a7fd91ef84349
+24	202	7782502148266865	D:/C++Project/QT creator/calculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/calculator_autogen/timestamp	b09a7fd91ef84349
+24	202	7782502148266865	D:/C++Project/QT creator/calculator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	b09a7fd91ef84349
+203	2435	7782502150042081	CMakeFiles/calculator.dir/mainwindow.cpp.obj	34b3b871c3924d7e
+2435	2620	7782502172229202	calculator.exe	d9119748aa319534
