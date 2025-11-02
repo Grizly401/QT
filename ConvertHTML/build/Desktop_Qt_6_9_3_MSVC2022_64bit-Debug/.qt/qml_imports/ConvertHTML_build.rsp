@@ -1,0 +1,9 @@
+-rootPath
+D:/QT_Projects/ConvertHTML
+-cmake-output
+-output-file
+D:/QT_Projects/ConvertHTML/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Debug/.qt/qml_imports/ConvertHTML_build.cmake
+-importPath
+D:/QT_Projects/ConvertHTML/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Debug
+-importPath
+D:/QT/6.9.3/msvc2022_64/qml
